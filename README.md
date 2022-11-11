@@ -55,7 +55,7 @@ plot.plot_imagem(imagem_correspondente)
 ```
 
 ## Author
-Jair Pereira
+Jaime Pillar 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
